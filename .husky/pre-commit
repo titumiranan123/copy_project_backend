@@ -1,1 +1,1 @@
-npm lint:check
+npm link:prettier
